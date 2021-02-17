@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" alt="franjsco | Twitter" width="26px" src="https://icons.iconarchive.com/icons/double-j-design/origami-colored-pencil/32/blue-home-icon.png"/>][homepage]
-[<img align="left" alt="franjsco | Telegram" width="26px" src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/32/Paypal-icon.png"/>][paypal]
+[<img align="left" alt="franjsco | Twitter" width="32px" src="https://icons.iconarchive.com/icons/double-j-design/origami-colored-pencil/32/blue-home-icon.png"/>][homepage]
+[<img align="left" alt="franjsco | Telegram" width="32px" src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/32/Paypal-icon.png"/>][paypal]
 
 [homepage]: https://www.francescoceliento.com
 [paypal]: https://paypal.me/francescoceliento
