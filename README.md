@@ -1,7 +1,9 @@
-### Hi, I'm Francesco 👋
+### Hi, I'm Francesco <img src="https://media.giphy.com/media/t6Kf2qs5fgWiAlOig5/source.gif" width="40">
 
 <!--
 **FrancescoCeliento/FrancescoCeliento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Iconpack https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/
 
 Here are some ideas to get you started:
 
@@ -15,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://www.francescoceliento.com
+[<img align="left" alt="franjsco | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg"/>][wordpress]
+[<img align="left" alt="franjsco | Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/paypal.svg"/>][paypal]
+
+[wordpress]: https://www.francescoceliento.com
+[paypal]: https://paypal.me/francescoceliento
