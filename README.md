@@ -1,6 +1,6 @@
-### Hi, I'm Francesco <img src="https://media.giphy.com/media/t6Kf2qs5fgWiAlOig5/source.gif" width="40">
+# Hi, I'm Francesco <img src="https://media.giphy.com/media/t6Kf2qs5fgWiAlOig5/source.gif" width="40">
 ## Developer, Linux user
-# ⌨️ Programming | 📜 Opensource | 🐧 Linux
+### ⌨️ Programming | 📜 Opensource | 🐧 Linux
 <!--
 **FrancescoCeliento/FrancescoCeliento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
