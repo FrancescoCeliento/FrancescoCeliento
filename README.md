@@ -1,5 +1,5 @@
 # Hi, I'm Francesco <img src="https://media.giphy.com/media/t6Kf2qs5fgWiAlOig5/source.gif" width="40">
-⌨️ Java/Oracle/Web Developer | 📜 Opensource | 🐧 Linux user
+⌨️ Java/Oracle/Web Developer | 📄 Opensource tendency | 🐧 Linux user | 👾 Retrogamer
 <br/>
 
 
