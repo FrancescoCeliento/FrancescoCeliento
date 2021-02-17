@@ -1,10 +1,10 @@
-# Hi, I'm Francesco <img src="https://media.giphy.com/media/t6Kf2qs5fgWiAlOig5/source.gif" width="40">
+# Hi, I'm Francesco <img src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/charizard.gif" width="40">
 ⌨️ Java/Oracle/Web Developer | 📄 Opensource tendency | 🐧 Linux user | 👾 Retrogamer
 <br/>
 
 
-[<img align="left" alt="franjsco | Twitter" width="32px" src="https://icons.iconarchive.com/icons/double-j-design/origami-colored-pencil/32/blue-home-icon.png"/>][homepage]
-[<img align="left" alt="franjsco | Telegram" width="32px" src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/32/Paypal-icon.png"/>][paypal]
+[<img align="left" alt="Homepage" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/home-icon.png"/>][homepage]
+[<img align="left" alt="PayPal" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/paypal-icon.png"/>][paypal]
 
 [homepage]: https://www.francescoceliento.com
 [paypal]: https://paypal.me/francescoceliento
