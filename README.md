@@ -4,9 +4,11 @@
 
 
 [<img align="left" alt="Homepage" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/home-icon.png"/>][homepage]
+[<img align="left" alt="PayPal" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/project-icon.png"/>][project]
 [<img align="left" alt="PayPal" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/paypal-icon.png"/>][paypal]
 
 [homepage]: https://www.francescoceliento.com
+[project]: https://francescoceliento.github.io
 [paypal]: https://paypal.me/francescoceliento
 <br/><br/>
 
