@@ -5,7 +5,7 @@
 
 [<img align="left" alt="Homepage" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/home-icon.png"/>][homepage]
 [<img align="left" alt="PayPal" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/project-icon.png"/>][project]
-[<img align="left" alt="PayPal" width="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/kofi-banner.png"/>][kofi]
+[<img align="left" alt="PayPal" height="32px" src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/main/asset/images/kofi-banner.png"/>][kofi]
 
 [homepage]: https://www.francescoceliento.com
 [project]: https://francescoceliento.github.io
