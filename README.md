@@ -1,4 +1,4 @@
-Ciao <img src="https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/refs/heads/main/asset/images/charizard.gif" "height="100" /> sono Francesco Celiento
+Ciao sono Francesco Celiento
 ==========================================================================================================================================
 
 Java/Oracle/Web Developer
