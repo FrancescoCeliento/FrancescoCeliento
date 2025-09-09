@@ -1,4 +1,4 @@
-Ciao ![](https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/refs/heads/main/asset/images/charizard.gif) sono Francesco Celiento
+Ciao ![image](https://raw.githubusercontent.com/FrancescoCeliento/FrancescoCeliento/refs/heads/main/asset/images/charizard.gif | height=10) sono Francesco Celiento
 ==========================================================================================================================================
 
 Java/Oracle/Web Developer
