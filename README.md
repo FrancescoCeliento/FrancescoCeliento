@@ -18,3 +18,9 @@ Sono uno sviluppatore software, webapp e processi automatizzati, scrivo in lingu
 *   Oracle Database
 *   MySQL
 *   SQLite
+
+### Portfolio
+| Java            | PHP     | Wordpress                  |
+| ---             | ---     | ---                        |
+| YTDLJExtension  | EasyPHP | Simple.css Theme Wordpress |
+|                 | Burl    |                            |
